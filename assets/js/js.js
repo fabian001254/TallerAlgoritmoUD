@@ -10,7 +10,4 @@ function calcNotes(){
     document.getElementById("resul").style.display = "block";
 
 }
-function test(){
-    console.log("dah");
-}
 boton.onclick = calcNotes;
